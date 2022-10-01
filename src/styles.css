@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+  font-size: 2rem;
+}
+
+.Output {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.Moji {
+  margin: 0.75rem;
+  cursor: pointer;
+  font-size: 3rem;
+}
